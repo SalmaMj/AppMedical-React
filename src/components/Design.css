@@ -1,0 +1,23 @@
+
+.mm{
+    margin-top: 20px;
+    margin-right: 0px;
+}
+.vv{
+    margin-left: 800px;
+}
+.button {
+    background: none;
+    border-top: 2px solid #333333;
+    border-bottom: 2px solid #333333;
+    border-radius: 0px;
+    font-family: "Raleway", sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 2.31;
+    text-align: center;
+    color: #333333;
+    -webkit-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}

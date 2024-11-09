@@ -1,0 +1,90 @@
+
+  /*# sourceMappingURL=Login.css.map */
+  .login_box_img {
+    margin-right: -30px;
+    position: relative;
+} 
+.row {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin-right: -15px;
+  margin-left: -15px;
+}
+
+.col-lg-6{
+position: relative;
+width: 100%;
+min-height: 1px;
+padding-right: 15px;
+padding-left: 15px;
+margin-top: 90px;
+}
+
+
+
+.login_box_img .hover {
+  position: absolute;
+  top: 50%;
+  left: 0px;
+  text-align: center;
+  width: 100%;
+  transform: translateY(-50%);
+} 
+ .login_box_area .login_box_img img {
+  width: 100%;
+}
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+} 
+img {
+  vertical-align: middle;
+  border-style: none;
+}
+.login_box_img:before {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 100%;
+  width: 100%;
+  content: "";
+  background: #000;
+  opacity: .5;
+} 
+ .login_box_img .hover h4 {
+  font-size: 24px;
+  color: #fff;
+  margin-bottom: 15px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.login_form_inner h3 {
+  color: #222222;
+  text-transform: uppercase;
+  font-size: 18px;
+  margin-bottom: 30px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.primary-btn {
+    position: relative;
+    overflow: hidden;
+    color: #fff;
+    padding: 0 30px;
+    line-height: 50px;
+    border-radius: 50px;
+    display: inline-block;
+    text-transform: uppercase;
+    font-weight: 500;
+    cursor: pointer;
+    -webkit-transition: all 0.3s ease 0s;
+    -moz-transition: all 0.3s ease 0s;
+    -o-transition: all 0.3s ease 0s;
+    transition: all 0.3s ease 0s;
+}
+.login_form_inner {
+  box-shadow: 0px 10px 30px 0px rgb(0 0 0 / 7%);
+  height: 100%;
+  text-align: center;
+  padding-top: 115px;
+}    

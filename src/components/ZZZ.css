@@ -1,0 +1,45 @@
+.wrapper{
+    display: grid;
+    grid-template-columns: 50% 50% 50%;
+    grid-row: 50% 50%;
+  }
+  .wrapper >div:nth-child(odd){
+      background: #ddd;
+  }
+  .wrapper >div{
+      background: #eee;
+      padding: 1em;
+  }
+  .nn{
+      margin-top: 30px;
+      margin-bottom: 30px;
+  }
+  
+  .bttn{
+      margin-bottom: 60px;
+      
+  }
+  h2{
+      margin-bottom: 40px;
+  }
+  .butn{
+      margin-left: 20px;
+  }
+  .nn{
+      margin-top: 30px;
+      margin-bottom: 30px;
+      margin-left:560px;
+    }
+    .backg{
+       
+        font-family: 'Shadows Into Light', cursive;
+        
+
+    }
+    .imgg{
+        max-width: 250px;
+       
+    }
+    .sasi{
+        margin-left: 20px;
+    }

@@ -1,0 +1,76 @@
+
+
+.mt-0 {
+    font-family: 'Varela Round', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 2.14;
+    letter-spacing: 2.8px;
+    color: #BA6B00;
+    text-align:left; 
+}
+
+.mt-1{
+    text-align: left;
+    color: rgb(79, 83, 87);
+    font-size: 20px;
+    
+}
+.mt-2{
+    font-family: 'Varela Round', sans-serif;
+    text-align: left;
+    font-size: 20px;
+}
+.mt-3{
+    text-align: left;
+}
+.fa-solid{
+    font-size: 14px;
+
+}
+.vk-contact-form-info-header h3 {
+    font-family: "Cinzel Decorative";
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 2.14;
+    letter-spacing: 2.8px;
+    text-align: center;
+    color: #BA6B00;
+    margin-top: 20px;
+}
+.vk-contact-form-info-header h2 {
+    font-family: "Playfair Display", serif;
+    font-size: 48px;
+    font-weight: bold;
+    text-align: center;
+    color: #333333;
+    margin: 0;
+}
+ .button {
+    background: none;
+    border-top: 2px solid #333333;
+    border-bottom: 2px solid #333333;
+    border-radius: 0px;
+    font-family: "Raleway", sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    line-height: 2.31;
+    text-align: center;
+    color: #333333;
+    -webkit-transition: all 0.5s;
+    -o-transition: all 0.5s;
+    transition: all 0.5s;
+}
+
+ .vk-contact-border {
+    width: 40px;
+    height: 2px;
+    background-color: #BA6B00;
+    margin: 0 auto;
+    margin-top: 50px;
+    
+}
+.form-control {
+    border-radius: 10px;
+  
+}
